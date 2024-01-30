@@ -1,0 +1,1 @@
+https://eu-de.dataplatform.cloud.ibm.com/analytics/notebooks/v2/5fa59628-f7e9-4c65-8458-31caab808455/view?access_token=dd3b87bea86a7894dec1f4088460ca29369c7e298328eaa9101f34358e5be83a&context=cpdaas
