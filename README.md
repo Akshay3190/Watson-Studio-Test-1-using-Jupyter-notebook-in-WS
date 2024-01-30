@@ -1,1 +1,1 @@
-# Watson-Studio-Test-1-using-Jupyter-notebook-in-WS
+# Watson-Studio-Test-1
